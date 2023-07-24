@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+cefi_shortcourse_students_2023.Rproj
+CaseStudy_Covid19/McMasterPandemic/McMasterPandemic.Rproj
+.DS_Store
+renv/
